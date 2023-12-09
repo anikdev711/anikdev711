@@ -1,7 +1,7 @@
 ![logo](https://github.com/anikdev711/anikdev711/blob/main/git-banner-1.png)
 
 <h1 align="center">Hello, I'm Anik Dev</h1>
-<h3 align="left">I am a passionate MERN stack web developer. I can build projects using HTML, CSS, Tailwind CSS, JavaScript and React. I have knowledge about Node, Express and MongoDB. I try my best to complete project with in due time.</h3>
+<h3 align="left">I am a passionate MERN stack web developer. I can build projects using HTML, CSS, Tailwind CSS, JavaScript and React. I have knowledge about Node, Express and MongoDB. </h3>
 
 - 🔭 I’m currently working on [online-forum](https://github.com/anikdev711/online-forum-client)
 
